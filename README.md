@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kemalkesk1n
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 
 
 <!---
